@@ -1,5 +1,6 @@
 Ceci est un test
-Je modifie ma branche
+bJe modifie ma ranche
 <j'ajoute cette petite ligne de code />
 J'ai créé ma premiere branche :) 
 je met un autre commit sur cette branche
+Cette modif s'effectue sur la branche2 
